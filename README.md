@@ -4,7 +4,6 @@ This repository presents a standard for building bespoke NHS data warehouses - s
 ## A little bit about the NHS Data Warehouse standards
 * This set of standards emerged through the development of bespoke Data Warehouse products in multiple acute NHS trusts
 * It came about using SQL server, although most of the principles are applicable to any database technology
-* Adding a measure simply requires a table to hold the Data Quality detail data, a view for the SSRS report, and a Stored Procedure to update the data
 
 ## A little bit about Perspicacity Ltd
 Perspicacity provides decision support consultancy, coaching, & development to the NHS. They are passionate about reducing the cost of software development to the NHS and aspire to create an active community of NHS and commercial organisations. They all share a common goal of improving the quality and efficiency of patient care through better, and more informed, decision making.
